@@ -119,7 +119,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
+    repo: Nitesh1357/Nitesh1357.github.io # <gh-username>/<repo>
     repo_id:
     category:
     category_id:
