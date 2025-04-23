@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Nitesh Kumar Mishra # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Lets begin # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,10 +26,11 @@ description: >- # used by seo meta and the atom feed
 url: "https://Nitesh1357.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: Nitesh1357 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: Niteshmisra1357
+ # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,11 +39,13 @@ social:
   email: niteshmishra1357@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/Nitesh1357 # change to your Twitter homepage
+    - https://twitter.com/Niteshmisra1357
+ # change to your Twitter homepage
     - https://github.com/Nitesh1357 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    https://www.linkedin.com/in/niteshmishra31/
+
 
 # Site Verification Settings
 webmaster_verifications:
